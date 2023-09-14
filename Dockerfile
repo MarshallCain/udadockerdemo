@@ -1,4 +1,4 @@
-FROM python:3.10.12-bookworm
+FROM python:3.10.12-slim-bookworm
 
 ## Complete Step 1:
 # Create a Working Directory
